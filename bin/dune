@@ -1,0 +1,3 @@
+(executable
+ (name onionctrl_test_client)
+ (libraries onionctrl miou miou.unix logs logs.fmt fmt))
